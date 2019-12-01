@@ -55,10 +55,10 @@ if($statuslen < 86){
 	$statustagged = $status." #Paragliding";
 }
 $twitsettings = array(
-    'oauth_access_token' => "180106426-5GPTViE77sIG7hJUMmEZwzKrBecS7F4toGHcUG2F",
-    'oauth_access_token_secret' => "W98FgDwo3hlOpfYVbGuFEXF9pjHeAQtTBVMUDIVFD8",
-    'consumer_key' => "4Eoaohe138gFEaJvCzMNA",
-    'consumer_secret' => "Fv8IjN5iOzOpJ4KQX6qWzXiAOZ0Bp5LPYgDw2weLI"
+    'oauth_access_token' => "xxxxx",
+    'oauth_access_token_secret' => "xxxxx",
+    'consumer_key' => "xxxxx",
+    'consumer_secret' => "xxxxx"
 );
 date_default_timezone_set('Europe/London');
 $url = 'https://api.twitter.com/1.1/statuses/update.json';
