@@ -1,4 +1,4 @@
-# CANP ver 0.1
+# RASP tweets ver 0.1
 
 | Credits: | Copyright (c) Pete Logan, 2019 
 | --- | --- 
@@ -7,6 +7,10 @@
 | Tags: | paragliding, weather, forecast 
 
 Utility designed to be run every morning that scrapes the Stars forecast from RASP Blipmap tables for the week ahead. This gives pilots an idea of which day they should plan ahead to fly cross country.
+
+BTW RASP - Regional Atmospheric Soaring Predictions
+& BLIPmap - Boundary Layer Information Prediction
+Stars - When certain atmospheric conditions combine like low wind, surface heating, instability of a packet of air rising, thermal height etc. it is possible to take off and fly great distances without power. The stars forecast combines these factors and gives an overall rating for the day. A 5 star day ahead is one to book off work.
 
 It can be viewed in action here: https://twitter.com/dalesflyer & http://www.logans.me.uk/penninerasp.html
 
