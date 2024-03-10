@@ -3,7 +3,7 @@
 | Credits: | Copyright (c) Pete Logan, 2019 
 | --- | --- 
 | Licence: | MIT 
-| Status: | beta 
+| Status: | For reference only. Who wants to bother with X anymore? 
 | Tags: | paragliding, weather, forecast 
 
 Utility designed to be run every morning that scrapes the Stars forecast from RASP Blipmap tables for the week ahead. This gives pilots an idea of which day they should plan ahead to fly cross country.
